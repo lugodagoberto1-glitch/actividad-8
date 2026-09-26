@@ -229,7 +229,7 @@ institución):*
 - **Campo que evita bucles infinitos:** **TTL (Time To Live)** — se reduce
   en 1 en cada salto; al llegar a 0, el router descarta el paquete.
 
-### Paso 4 — Confirmación y fin de la comunicación
+### Paso 4 — Confirmación y fin de la comunicacion 
 
 - **Confirmación de recepción:** mensajes **ACK**, relacionados con la
   **fiabilidad** de TCP (si no llega ACK, se retransmite el segmento).
